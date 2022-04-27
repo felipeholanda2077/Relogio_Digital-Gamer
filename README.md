@@ -20,8 +20,8 @@
 
 <h1 align="center">Imagens do projeto</h1>
 
-<h3 align="center">Imagem do funcionamento
-   <img alt="Imagem Principal" title="Readme" src="" />
+<h3 align="center">Imagem do Funcionamento <br><br>
+   <img alt="Imagem Principal" title="Readme" src="Relogio interface.png" />
 </h3>
 <h3 align="center">HTML do Relogio
    <img alt="HTML fonte" title="Readme" src="" />

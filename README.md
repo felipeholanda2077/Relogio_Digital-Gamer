@@ -16,7 +16,7 @@
 
 <h4 align="center">Um relógio visual em HTML, CSS e JavaScript com retro iluminação em RGB em seu aro em volta do relógio.</h4><br>
 
-<p align="center">---------------------------------------------------------------------------------------------------------------------------------</p>
+<p align="center">---------------------------------------------------------------------------------------------------------------------------------</p><br>
 
 <h1 align="center">Imagens do projeto</h1>
 

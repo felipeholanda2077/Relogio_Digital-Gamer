@@ -23,12 +23,12 @@
 <h3 align="center">Imagem do Funcionamento <br><br>
    <img alt="Imagem Principal" title="Readme" src="Relogio interface.png" />
 </h3>
-<h3 align="center">HTML do Relogio
-   <img alt="HTML fonte" title="Readme" src="Html-Demostrativo.png" />
+<h3 align="center">HTML do Relogio <br><br>
+   <img alt="HTML fonte" title="Readme" src="Html-Demostrativo.png" width="800px" height="900px"/>
 </h3>
 
-<h3 align="center">CSS do Relogio
-   <img alt="CSS Fonte" title="Readme" src="" />
+<h3 align="center">CSS do Relogio <br><br>
+   <img alt="CSS Fonte" title="Readme" src="Css - Demostrativo.png" width="900px" height="1200px"/>
 </h3>
 
 

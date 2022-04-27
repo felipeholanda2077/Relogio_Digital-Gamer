@@ -4,5 +4,33 @@
    </a>
 </p>
 
-# Relogio_Digital-Gamer
-Um relógio visual em HTML, CSS e JavaScript com retro iluminação em RGB em seu aro em volta do relógio.
+<p align="center">ÍNDICE...</p>
+<p align="center"><a href="#sobre-o-projeto">Sobre</a> • 
+<a href="#Imagens-do-projeto">Imagens do projeto</a> • 
+<a href="#Tecnologias--">Tecnologias</a> • 
+<a href="#Ferramentas">Ferramentas</a></p>
+
+<h1 align="center">Sobre o Projeto</h1>
+
+<h3 align="center">Relogio_Digital-Gamer</h3>
+
+<h4 align="center">Um relógio visual em HTML, CSS e JavaScript com retro iluminação em RGB em seu aro em volta do relógio.</h4><br>
+
+<p align="center">---------------------------------------------------------------------------------------------------------------------------------</p>
+
+<h1 align="center">Imagens do projeto</h1>
+
+<h3 align="center">Imagem do funcionamento
+   <img alt="Imagem Principal" title="Readme" src="" />
+</h3>
+<h3 align="center">HTML do Relogio
+   <img alt="HTML fonte" title="Readme" src="" />
+</h3>
+
+<h3 align="center">CSS do Relogio
+   <img alt="CSS Fonte" title="Readme" src="" />
+</h3>
+
+
+
+

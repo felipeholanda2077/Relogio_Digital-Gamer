@@ -24,7 +24,7 @@
    <img alt="Imagem Principal" title="Readme" src="Relogio interface.png" />
 </h3>
 <h3 align="center">HTML do Relogio
-   <img alt="HTML fonte" title="Readme" src="" />
+   <img alt="HTML fonte" title="Readme" src="Html-Demostrativo.png" />
 </h3>
 
 <h3 align="center">CSS do Relogio

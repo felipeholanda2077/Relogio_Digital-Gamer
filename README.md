@@ -28,7 +28,7 @@
 </h3>
 
 <h3 align="center">CSS do Relogio <br><br>
-   <img alt="CSS Fonte" title="Readme" src="Css - Demostrativo.png" width="900px" height="1200px"/>
+   <img alt="CSS Fonte" title="Readme" src="Css - Demostrativo.png" width="800px" height="1200px"/>
 </h3>
 
 
